@@ -1,7 +1,10 @@
 scikit-learn
 numpy
-pickle
+pickle-mixin
 streamlit
 xgboost
 streamlit-option-menu
 pandas
+seaborn
+matplotlib
+sklearn
